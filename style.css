@@ -1,0 +1,27 @@
+
+#calc-contain{
+    position: relative;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 12px;
+    margin: 0px auto;
+    padding: 20px 20px 100px 20px;
+  }
+  #agh{
+    position: relative;
+    float: right;
+    margin-top: 15px;
+  }
+  #agh p{
+    font-size: 20px;
+    font-weight: 900;
+  }
+  input[type=button] {
+    background: lightGray;
+    width: 20%;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 7px;
+    margin-left: 13px;
+    margin-top: 10px;
+  }
